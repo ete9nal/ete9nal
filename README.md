@@ -19,7 +19,12 @@ Aspiring Data Science professional currently undergoing intensive training. Expe
 
 ### 📁 Featured Projects
 
-* **[Nexus Personal Assistant](https://github.com/ete9nal/Nexus-Contacts-Notes-Manager)** — A modular Python CLI application featuring advanced contact directories, structured note-taking, and automated persistence.
+### 📁 Featured Projects
+
+* **[Nexus Contacts & Notes Manager](https://github.com/ete9nal/Nexus-Contacts-Notes-Manager)** — A robust CLI application featuring object-oriented contact management, categorized note-taking, and automated data persistence.
+* **[Data Science Analytics Sandbox](https://github.com/ete9nal/ds-analytics-sandbox)** — A comprehensive collection of exploratory data analysis (EDA), machine learning models, and deep learning architectures.
+* **[Web Scraping & MongoDB Sandbox](https://github.com/ete9nal/nosql-mongodb-scraping)** — Data extraction pipelines using BeautifulSoup, integrated with NoSQL CRUD operations in MongoDB Atlas.
+* **[Relational Database Simulation](https://github.com/ete9nal/relational-database-sqlite)** — A technical demonstration of RDBMS architecture, utilizing SQLite3, structured schema design, and automated ETL data generation.
 
 ---
 
