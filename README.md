@@ -18,10 +18,9 @@ Aspiring Data Science professional currently undergoing intensive training. Expe
 
 ---
 
-### 📂 Featured Projects
+### 📁 Featured Projects
 
-*   **[Python DL & ML Workspace Project](https://github.com/YOUR_USERNAME/REPO_NAME)** — Complete data processing pipeline and machine learning workflow built during the course. Utilizes Pandas for structured data manipulation and SQL/MongoDB for data storage.
-*   **[Automation & Scraping Scripts](https://github.com/YOUR_USERNAME/REPO_NAME)** — Custom automation workflows, integration with API solutions, and data logging tasks.
+* **[Nexus Personal Assistant](https://github.com/ete9nal/Nexus-Contacts-Notes-Manager)** — A modular Python CLI application featuring advanced contact directories, structured note-taking, and automated persistence.
 
 ---
 
