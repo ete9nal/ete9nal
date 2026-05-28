@@ -19,8 +19,6 @@ Aspiring Data Science professional currently undergoing intensive training. Expe
 
 ### 📁 Featured Projects
 
-### 📁 Featured Projects
-
 * **[Nexus Contacts & Notes Manager](https://github.com/ete9nal/Nexus-Contacts-Notes-Manager)** — A robust CLI application featuring object-oriented contact management, categorized note-taking, and automated data persistence.
 * **[Data Science Analytics Sandbox](https://github.com/ete9nal/ds-analytics-sandbox)** — A comprehensive collection of exploratory data analysis (EDA), machine learning models, and deep learning architectures.
 * **[Web Scraping & MongoDB Sandbox](https://github.com/ete9nal/nosql-mongodb-scraping)** — Data extraction pipelines using BeautifulSoup, integrated with NoSQL CRUD operations in MongoDB Atlas.
