@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Roman Poltavchenko
 
 ### Junior Data Science & Machine Learning Engineer
@@ -10,11 +9,11 @@ Aspiring Data Science professional currently undergoing intensive training. Expe
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
 
 ---
 
